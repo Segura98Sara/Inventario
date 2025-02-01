@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "1e7ef6c7-7f8b-4811-a11f-c3019b585623",
+    "item": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with USB receiver.",
+    "inStock": "Yes",
+    "price": "$25.99",
+    "category": "Electronics"
+  },
+  {
+    "_id": "d8f16a44-bf4e-4568-8e93-f0d253a32762",
+    "item": "Bluetooth Headphones",
+    "description": "Noise-cancelling over-ear headphones with Bluetooth connectivity.",
+    "inStock": "Yes",
+    "price": "$79.99",
+    "category": "Electronics"
+  },
+  {
+    "_id": "c567ae3b-75f4-4d5a-9914-4d35f93cfb8f",
+    "item": "Smartphone Stand",
+    "description": "Adjustable stand for smartphones and tablets.",
+    "inStock": "No",
+    "price": "$15.00",
+    "category": "Accessories"
+  },
+  {
+    "_id": "8b61b0cc-1b21-4128-8f63-4f02b080805d",
+    "item": "Running Shoes",
+    "description": "Lightweight running shoes with breathable fabric.",
+    "inStock": "Yes",
+    "price": "$120.50",
+    "category": "Sportswear"
+  },
+  {
+    "_id": "3a1fcf40-c442-4967-bf86-a1b9ea482c64",
+    "item": "Water Bottle",
+    "description": "Stainless steel water bottle with a 1-liter capacity.",
+    "inStock": "Yes",
+    "price": "$18.75",
+    "category": "Outdoor"
+  },
+  {
+    "_id": "2e83d5b1-6e37-4b62-b3aa-1b99b1c6897a",
+    "item": "Backpack",
+    "description": "Durable backpack with multiple compartments and water-resistant material.",
+    "inStock": "No",
+    "price": "$45.00",
+    "category": "Bags"
+  },
+  {
+    "_id": "41b1ff7e-2326-4b28-b9d6-67a889b53efb",
+    "item": "Gaming Keyboard",
+    "description": "Mechanical gaming keyboard with RGB backlighting.",
+    "inStock": "Yes",
+    "price": "$89.99",
+    "category": "Electronics"
+  },
+  {
+    "_id": "ec4b4f7b-c2e2-43f5-9942-2d104db7ed10",
+    "item": "LED Desk Lamp",
+    "description": "Adjustable LED desk lamp with touch control and brightness settings.",
+    "inStock": "Yes",
+    "price": "$30.99",
+    "category": "Home"
+  },
+  {
+    "_id": "9bbedb57-6101-48a6-82fa-8b0f5e75f3b8",
+    "item": "Yoga Mat",
+    "description": "Non-slip yoga mat with 6mm thickness.",
+    "inStock": "Yes",
+    "price": "$25.00",
+    "category": "Fitness"
+  },
+  {
+    "_id": "1e7ef6c7-7f8b-4811-a11f-c3019b5856233",
+    "item": "Wireless Charger",
+    "description": "Fast wireless charger compatible with various smartphones.",
+    "inStock": "No",
+    "price": "$29.99",
+    "category": "Electronics"
+  }
+]
